@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Project files
+*.db
+*.log
+*.swp
+*.swo
